@@ -345,4 +345,4 @@ const style = StyleSheet.create({
     borderWidth: 1,
     padding: 10,
   }
-})
+}) 
